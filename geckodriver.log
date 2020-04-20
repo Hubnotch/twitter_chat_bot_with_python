@@ -1,0 +1,224 @@
+1587378212199	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileh7uYpI"
+1587378214603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587378217882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587378217882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587378217883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587378217883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587378225364	Marionette	INFO	Listening on port 11501
+1587378225417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587378368761	Marionette	INFO	Stopped listening on port 11501
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587378401925	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileeZAoFR"
+1587378403813	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587378406885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587378406885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587378406885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587378406886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587378412827	Marionette	INFO	Listening on port 11608
+1587378415086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1587378522989	Marionette	INFO	Stopped listening on port 11608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mission: networkStatus
+1587378525469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587378525470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587378525470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587378525470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587378534049	Marionette	INFO	Listening on port 11686
+1587378534257	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Unable to find a proper document to create the device-selector MenuButton for RDM"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:944:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+console.error: (new Error("Protocol error (unknownError): node is null", "resource://devtools/shared/protocol/Front.js", 294))
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/shared/fronts/node.js, line 404: TypeError: this.parentFront is null
+1587378700941	Marionette	INFO	Stopped listening on port 11686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587378952533	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileJWWW4z"
+1587378954400	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587378957466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587378957466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587378957466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587378957467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587378963751	Marionette	INFO	Listening on port 11796
+1587378964170	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/shared/fronts/walker.js:411:10
+
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+[Child 7888, MediaDecoderStateMachine #1] WARNING: Decoder=568a5d0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file Z:/task_1585934688/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3367
+1587380581234	Marionette	INFO	Stopped listening on port 11796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587386516029	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileHBxbAA"
+1587386520637	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587386524228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587386524228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587386524229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587386524229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587386539135	Marionette	INFO	Listening on port 12793
+1587386539999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1587387412593	Marionette	INFO	Stopped listening on port 12793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+shots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587387414848	Marionette	INFO	Listening on port 13161
+1587387415049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1903: TypeError: currentPanel is undefined
+1587387765117	Marionette	INFO	Stopped listening on port 13161
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileAwg8KY"
+1587387766063	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587387769323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587387769323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587387769324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587387769324	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587387777183	Marionette	INFO	Listening on port 13248
+1587387777244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 266: TypeError: this._builder is undefined
+1587387899216	Marionette	INFO	Stopped listening on port 13248
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587387965052	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileE5gclW"
+1587387966821	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587387969844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587387969844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587387969845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587387969845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587387976115	Marionette	INFO	Listening on port 13340
+1587387978122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587388031076	Marionette	INFO	Stopped listening on port 13340
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6804, Gecko_IOThread] WARNING: pipe error: 232: file Z:/task_1585934688/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587388057026	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ekene\\AppData\\Local\\Temp\\rust_mozprofileLRUE7z"
+1587388058970	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587388062052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587388062053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587388062053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587388062054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587388069908	Marionette	INFO	Listening on port 13424
+1587388070328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1587388107891	Marionette	INFO	Stopped listening on port 13424
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
