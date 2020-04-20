@@ -11,7 +11,7 @@ class TwitterBot:
     def login(self):
         bot = self.bot
         bot.get('https://twitter.com/')
-        time.sleep(10)
+        time.sleep(5)
         email = bot.find_element_by_name('session[username_or_email]')
         password = bot.find_element_by_name('session[password]')
         email.clear()
@@ -19,21 +19,27 @@ class TwitterBot:
         email.send_keys(self.username)
         password.send_keys(self.password)
         password.send_keys(Keys.RETURN)
-        time.sleep(10)
+        time.sleep(5)
 
 
 def like_tweet(self,hashtag):
     bot = self.bot
     bot.get('https://twitter.com/search?q='+hashtag+'&src=typed_query')
-    time.sleep(10)
+    time.sleep(5)
     for i in range(1,3):
         bot.execute_script('window.scrollTo(0,document.body.scrollHeight)')
         time.sleep(3)
-        tweets = bot.find_elements_by_class_name('tweet')
-
+        tweets = bot.find_elements_by_class_name('css-1dbjc4n')
+        links = [elem.get_attribute('content') for elem in tweets]
+    print(links)
+    for link in links:
+        bot.get('https://twitter.com' + link)
+        try:
+            bot.find_elements_by_class_name('r-yyyyoo').click()
+            time.sleep(10)
+        except Exception as ex:
+                time.sleep(60)
+        
 Ekene = TwitterBot('love2ekene@yahoo.com', 'ama2gouser')
 Ekene.login()
 Ekene.like_tweet('webdevelopment')
-
-#ed =  TwitterBot('storyofedd@yahoo.com', 'dimitrimarco94')
-#session[username_or_email]
