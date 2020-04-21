@@ -31,15 +31,16 @@ def like_tweet(self,hashtag):
         time.sleep(3)
         tweets = bot.find_elements_by_class_name('css-1dbjc4n')
         links = [elem.get_attribute('content') for elem in tweets]
-    print(links)
+        print(links)
+
     for link in links:
-        bot.get('https://twitter.com' + link)
+        bot.get('https://twitter.com'+link)
         try:
             bot.find_elements_by_class_name('r-yyyyoo').click()
             time.sleep(10)
         except Exception as ex:
                 time.sleep(60)
         
-Ekene = TwitterBot('love2ekene@yahoo.com', 'ama2gouser')
-Ekene.login()
-Ekene.like_tweet('webdevelopment')
+my_name = TwitterBot('twitter_username', 'twitter_password')
+my_name.login()
+my_name.like_tweet('coronavirus')
